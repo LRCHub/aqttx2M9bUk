@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Forever Love Acoustic Version",
+  "base_artist": "X JAPAN",
+  "createdAt": "2025-12-24T11:57:04.509129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Love - Acoustic",
+      "artist": "Mickey Guyton",
+      "has_synced": true,
+      "path": "select/01_Forever_Love_-_Acoustic_Mickey_Guyton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever Love (Acoustic Version",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/02_Forever_Love_(Acoustic_Version_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever Love (acoustic version)",
+      "artist": "X JAPAN",
+      "has_synced": true,
+      "path": "select/03_Forever_Love_(acoustic_version)_X_JAPAN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Love (Acoustic)",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/04_Forever_Love_(Acoustic)_X_Japan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Love (acoustic version)",
+      "artist": "X Japan",
+      "has_synced": true,
+      "path": "select/05_Forever_Love_(acoustic_version)_X_Japan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever Love Acoustic Version",
+      "artist": "X JAPAN",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_Love_Acoustic_Version_X_JAPAN.txt"
+    }
+  ]
+}
